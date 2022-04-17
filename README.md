@@ -1,0 +1,1 @@
+# bitmap_msg1
